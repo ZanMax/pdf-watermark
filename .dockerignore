@@ -1,0 +1,7 @@
+docker-compose.yml
+readme.md
+.gitignore
+alembic.ini
+venv
+migrations
+.git/
